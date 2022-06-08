@@ -71,7 +71,7 @@
     "typescript": "~4.7.3"
   },
   "engines": {
-    "node": "126.15.1",
+    "node": "16.15.1",
     "npm": "8.5.0"
   },
   "description": "An Ionic project"
